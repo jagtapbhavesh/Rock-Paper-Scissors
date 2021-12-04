@@ -88,7 +88,7 @@ header > h1{
 }
 
 .choices{
-    margin: 50px 0;
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -105,8 +105,13 @@ header > h1{
 .choice:hover{
     cursor: pointer;
     background: var(--light-red);
+}
 
-
+#action-message{
+    margin-top: 20px;
+    text-align: center;
+    color: var(--white-smoke);
+    font-size: 20px;
 }
 
 
