@@ -23,6 +23,21 @@ header{
     background: var(--white-smoke);
 }
 
+.green-glow{
+    border: 4px #059669;
+    box-shadow : 0 0  10px #6EE7B7;
+}
+
+.red-glow{
+    border: 4px #DC2626;
+    box-shadow: 0 0 10px #FCA5A5;
+}
+
+.gray-glow{
+    border: 4px #4B5563;
+    box-shadow: 0 0 10px #9CA3AF;
+}
+
 header > h1{
     color: var(--primary-color);
     text-align: center;
